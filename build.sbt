@@ -36,3 +36,4 @@ dependencyOverrides += "com.fasterxml.jackson.core" % "jackson-databind" % "2.6.
 dependencyOverrides += "com.fasterxml.jackson.core" % "jackson-core" % "2.6.5"
 
 dependencyOverrides += "com.fasterxml.jackson.core" % "jackson-annotations" % "2.6.5"
+
